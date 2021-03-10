@@ -1,0 +1,1 @@
+function Hspeed(f){Runner.instance_.setSpeed(f)}function Hhigh_jump(h){Runner.instance_.tRex.setJumpVelocity(h)}function Hinc_Score(g){Runner.instance_.distanceRan = g/Runner.instance_.distanceMeter.config.COEFFICIENT;}
